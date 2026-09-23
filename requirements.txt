@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+qdrant-client
+langchain
+langchain-openai
+langchain-google-genai
+langchain-qdrant
+python-dotenv
+flask
+requests
+gunicorn
